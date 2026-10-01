@@ -1,0 +1,10 @@
+VIREO AUDIO - SUPPORT TICKETS (SET C)
+
+Source email thread supplied with the pack. Key points used by the analysis:
+- Finance's export summed to well over ₹1 crore per quarter.
+- Helpdesk reports ~₹11 lakh per quarter.
+- Some legacy Freshdesk rows store money in a native unit; Finance reconciles this elsewhere.
+- Some tickets are duplicated by migration re-import.
+- Q4 frontline policy changed to reduce arguments; CX claims CSAT rose 0.4.
+- Spot check found cases where refund and replacement were both issued.
+- Finance wants monthly reason-code and agent reporting with totals that reconcile.

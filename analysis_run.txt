@@ -1,0 +1,14 @@
+{
+  "raw_rows": 12238,
+  "unique_tickets": 11600,
+  "duplicate_ticket_ids": 638,
+  "raw_refund_sum": 230124081.0,
+  "normalized_refund_sum": 6709932.0,
+  "baseline_refund_rate": 0.21975040694519804,
+  "potential_savings_inr_per_quarter": 1690073.9829083018,
+  "double_award_tickets": 166,
+  "double_award_total_exposure_inr": 871161.0,
+  "ai_high_conf_gw_flags": 162,
+  "ai_high_conf_gw_amount_inr": 451765.0,
+  "ai_standard_reason_agreement": 0.9112426035502958
+}
