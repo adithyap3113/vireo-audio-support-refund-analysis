@@ -19,7 +19,15 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The raw pack files are under `data/raw/`. No paid API call is required.
+The supplied Vireo Set C data pack is required to run the tool. Place these five files under `data/raw/`:
+
+- tickets.csv
+- agents.csv
+- orders.csv
+- customers.csv
+- products.csv
+
+The raw ticket/customer data is intentionally not committed to this public repository. No paid API call is required.
 
 For a non-UI run:
 
